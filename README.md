@@ -1,2 +1,3 @@
-# C2R1_shiny
+# Two consumers single resource model shiny app
+
  
